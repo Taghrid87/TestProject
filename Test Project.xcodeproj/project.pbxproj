@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					4677D2BF1E9D232900ECBA80 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 8VX8LP6DT7;
 						ProvisioningStyle = Automatic;
 					};
 					4677D2D31E9D232A00ECBA80 = {
@@ -337,10 +338,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 8VX8LP6DT7;
 				INFOPLIST_FILE = "Test Project/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.test.Test-Project";
+				PRODUCT_BUNDLE_IDENTIFIER = com.thomsonreuters.iep;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -350,10 +351,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 8VX8LP6DT7;
 				INFOPLIST_FILE = "Test Project/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.test.Test-Project";
+				PRODUCT_BUNDLE_IDENTIFIER = com.thomsonreuters.iep;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -404,6 +405,7 @@
 				4677D2DF1E9D232A00ECBA80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4677D2E01E9D232A00ECBA80 /* Build configuration list for PBXNativeTarget "Test ProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +414,7 @@
 				4677D2E21E9D232A00ECBA80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
